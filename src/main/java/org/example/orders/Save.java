@@ -1,4 +1,4 @@
-package org.example.ordenes;
+package org.example.orders;
 
 public class Save {
     public void saveToDatabase(Order order){

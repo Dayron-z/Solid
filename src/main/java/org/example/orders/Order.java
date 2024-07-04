@@ -1,4 +1,4 @@
-package org.example.ordenes;
+package org.example.orders;
 
 import java.util.List;
 
